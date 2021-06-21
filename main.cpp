@@ -1,11 +1,3 @@
-//============================================================================
-// Name        : CheggCarSaleC+=.cpp
-// Author      : DEVIL
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
 #include <iostream>
 #include <bits/stdc++.h>
 #include "Porsche.h"
